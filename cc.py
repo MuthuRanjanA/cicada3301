@@ -21,7 +21,7 @@ c1,c2=s.columns(2)
 with c1:
     a1=s.number_input("what is the value bitcoin in 1st jan 2024 with 2 floating point?")
 with c2:
-    a2=s.number_input("what is the value of phi with 2 floating point?")
+    a2=s.number_input("what is the value of phi or golden ratio with 2 floating point?")
 if (a1==43835.62) and (a2==1.62):
     s.write("congratulations;")
     #code for image
