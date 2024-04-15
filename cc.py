@@ -29,7 +29,7 @@ if (a1==43835.62) and (a2==1.62):
     with col1:
         s.write("")
     with col2:
-        img = Image.open("cc.jpg")
+        img = Image.open("cic.jpg")
         s.image(img,caption="Find me")
     with col3:
         s.write("")
